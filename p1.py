@@ -1,7 +1,7 @@
-print("Witaj w programie 'Twoje szczęśliwe numerki'.")
+print("Witaj w programie 'Twój szczęśliwy numerek'.")
 print()
-print("Twoje szczęśliwe numerki to:")
+print("Twój szczęśliwy numerek to:")
 import random
-for x in range(3):
+for x in range(1):
   print(random.randint(0,100))
 
